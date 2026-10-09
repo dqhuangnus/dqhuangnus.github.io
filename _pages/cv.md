@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.**, University College London (UCL), London, UK &mdash; Feb 2026 &ndash; present
+* **Ph.D. in Robotics and AI**, University College London (UCL), London, UK &mdash; Feb 2026 &ndash; present
   * CRISP group, UCL East
   * Supervisor: Dr. Lorenzo Jamone
   * Research: tactile sensing for contact-rich robot manipulation
